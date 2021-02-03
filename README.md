@@ -7,4 +7,4 @@
  - Hill cipher
  - Vigenere cipher
  - Vernam cipher
- ##### Data Encryption Standard(DES)
+ ##### Data Encryption Standard (DES)
